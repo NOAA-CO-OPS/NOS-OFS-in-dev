@@ -14,7 +14,7 @@ The following OFS will be transitioned into operations at NOS in the coming year
 * The upgraded **Lake Ontario OFS (LOOFS)**, developed in partnership with the Great Lakes Environmental Research Laboratory and the Cooperative Institute for Great Lakes Research.
 
 The map below delineates the domains of these upcoming OFS:
-![OFS map](https://raw.githubusercontent.com/lucila-h-b/lucila-h-b.github.io/refs/heads/main/images/OFSCoverage.png "Map of existing and future OFS coverage")
+![OFS map](https://raw.githubusercontent.com/NOAA-CO-OPS/NOS-OFS-in-dev/refs/heads/main/images/OFSCoverage.png "Map of existing and future OFS coverage")
 
 ## NECOFS
 The NECOFS domain extends from Bald Head Island, North Carolina northeastward to Nova Scotia, Canada. This model will expand domain coverage of the Northeast coast, resolving major oceanographic processes and providing coastal predictions in areas not currently covered by NOS OFS, such as Narragansett Bay, Long Island Sound, and Pamlico Sound.
@@ -28,7 +28,7 @@ The fundamental requirement is to provide a short term (3-5 days), hourly, high 
 
 Before the model is implemented into operations, NOS will conduct semi-operational realtime runs to evaluate its skill and stability. As part of the evaluation, users will have the opportunity to see developmental output and graphics and provide feedback.
 
-![NECOFS mesh](https://raw.githubusercontent.com/lucila-h-b/lucila-h-b.github.io/refs/heads/main/images/NECOFS-mesh.png "Map of unstructured, FVCOM-based NECOFS mesh")
+![NECOFS mesh](https://raw.githubusercontent.com/NOAA-CO-OPS/NOS-OFS-in-dev/refs/heads/main/images/NECOFS-mesh.png "Map of unstructured, FVCOM-based NECOFS mesh")
 
 *The above image shows the unstructured mesh used for NECOFS, with high resolution areas around the coast and in the nearshore*
 
