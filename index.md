@@ -2,7 +2,7 @@
 
 #
 layout: home
-title: OFS in development
+
 ---
 
 ## Upcoming NOS OFS
