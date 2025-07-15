@@ -4,7 +4,7 @@
 
 For additional information, contact:
 NOAA Center for Operational Oceanographic Products and Services,
-[co-ops.userservices@noaa.gov]
+[co-ops.userservices@noaa.gov](co-ops.userservices@noaa.gov)
 
 
 
