@@ -2,10 +2,9 @@
 
 #
 layout: home
-
+title: Upcoming NOS OFS
 ---
 
-## Upcoming NOS OFS
 NOS is partnering with model developers to develop and implement into operations new operational forecast systems (OFS) that will expand domain coverage of NOS OFS and replace legacy OFS. 
 
 The following OFS will be transitioned into operations at NOS in the coming years:
@@ -17,7 +16,7 @@ The following OFS will be transitioned into operations at NOS in the coming year
 The map below delineates the domains of these upcoming OFS:
 ![OFS map](https://raw.githubusercontent.com/lucila-h-b/lucila-h-b.github.io/refs/heads/main/images/OFSCoverage.png "Map of existing and future OFS coverage")
 
-### NECOFS
+## NECOFS
 The NECOFS domain extends from Bald Head Island, North Carolina northeastward to Nova Scotia, Canada. This model will expand domain coverage of the Northeast coast, resolving major oceanographic processes and providing coastal predictions in areas not currently covered by NOS OFS, such as Narragansett Bay, Long Island Sound, and Pamlico Sound.
 
 The primary goal of this development effort is to replace the [New York and New Jersey OFS (NYOFS)](https://tidesandcurrents.noaa.gov/ofs/nyofs/nyofs.html), which was implemented into operations at NOS in early 2003 without any subsequent updates. NYOFS is a three-dimenstional barotropic model based on the Princeton Ocean Model, which is no longer maintained as an NOS OFS core model. NECOFS is based on the Finite Volume Coastal Ocean Model (FVCOM), which is one of NOS' preferred community-supported ocean models operated under the standardized [Coastal Ocean Modeling Framework](https://tidesandcurrents.noaa.gov/publications/NOAA_Technical_Report_NOS_COOPS_069.pdf) at NOAA's Weather and Climate Operational Supercomputing System.NECOFS will also potentially replace the existing [Chesapeake Bay OFS (CBOFS)](https://tidesandcurrents.noaa.gov/ofs/cbofs/cbofs.html), the [Delaware Bay OFS (DBOFS)](https://tidesandcurrents.noaa.gov/ofs/dbofs/dbofs.html), and the [Gulf of Maine OFS (GOMOFS)](https://tidesandcurrents.noaa.gov/ofs/gomofs/gomofs.html).
