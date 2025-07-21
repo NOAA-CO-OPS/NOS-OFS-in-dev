@@ -32,7 +32,7 @@ Before the model is implemented into operations, NOS will conduct semi-operation
 
 *The above image shows the unstructured mesh used for NECOFS, with high resolution areas around the coast and in the nearshore*
 
-**If interested in providing feedback or have any questions, contact [co-ops.userservices@noaa.gov](co-ops.userservices@noaa.gov)**
+**If interested in providing feedback or have any questions, contact [tide.predictions@noaa.gov](tide.predictions@noaa.gov)**
 
 
 
