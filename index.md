@@ -28,11 +28,17 @@ The fundamental requirement is to provide a short term (3-5 days), hourly, high 
 
 Before the model is implemented into operations, NOS will conduct semi-operational realtime runs to evaluate its skill and stability. As part of the evaluation, users will have the opportunity to see developmental output and graphics and provide feedback.
 
+**If interested in providing feedback or have any questions, contact [tide.predictions@noaa.gov](tide.predictions@noaa.gov)**
+
 ![NECOFS mesh](https://raw.githubusercontent.com/NOAA-CO-OPS/NOS-OFS-in-dev/refs/heads/main/images/NECOFS-mesh.png "Map of unstructured, FVCOM-based NECOFS mesh")
 
 *The above image shows the unstructured mesh used for NECOFS, with high resolution areas around the coast and in the nearshore*
 
-**If interested in providing feedback or have any questions, contact [tide.predictions@noaa.gov](tide.predictions@noaa.gov)**
+## ECOFS
+
+ECOFS is a ROMS-based system intended to complement the capabilities of the West Coast OFS (WCOFS). The ECOFS domain covers the West Atlantic Ocean and will perform Four-Dimensional Variational (4D-Var) Data Assimilation (DA) of sea level and temperature observations from satellites and surface current observations from HF-radar to provide improved forecast guidance.
+
+
 
 
 
