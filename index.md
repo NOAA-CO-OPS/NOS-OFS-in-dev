@@ -45,6 +45,10 @@ The horizontal resolution of the gridded model output will be 3 km, while DA wil
 
 Experimental realtime runs of the non-DA version of ECOFS are available on the partners' website [eccofs.fathomscience.com](https://eccofs.fathomscience.com/).
 
+![ECOFS example output](https://raw.githubusercontent.com/NOAA-CO-OPS/NOS-OFS-in-dev/refs/heads/main/images/ECOFS-output.png "Map of ECOFS domain and example sea surface temperature output from a non-DA run")
+
+*The above map shows the extent of the ECOFS domain and example sea surface temperature output from a non-DA ECOFS run, from [eccofs.fathomscience.com](https://eccofs.fathomscience.com/)*
+
 
 
 
