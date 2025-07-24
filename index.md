@@ -14,7 +14,7 @@ The following OFS will be transitioned into operations at NOS in the coming year
 * The upgraded **Lake Ontario OFS (LOOFS)**, developed in partnership with the Great Lakes Environmental Research Laboratory and the Cooperative Institute for Great Lakes Research.
 
 The map below delineates the domains of these upcoming OFS:
-![OFS map](https://raw.githubusercontent.com/NOAA-CO-OPS/NOS-OFS-in-dev/refs/heads/main/images/OFSCoverage.png "Map of existing and future OFS coverage")
+![OFS map](https://raw.githubusercontent.com/NOAA-CO-OPS/NOS-OFS-in-dev/refs/heads/main/images/OFS-domains.png "Map of existing and future OFS coverage")
 
 ## NECOFS
 The NECOFS domain extends from Bald Head Island, North Carolina northeastward to Nova Scotia, Canada. This model will expand domain coverage of the Northeast coast, resolving major oceanographic processes and providing coastal predictions in areas not currently covered by NOS OFS, such as Narragansett Bay, Long Island Sound, and Pamlico Sound.
