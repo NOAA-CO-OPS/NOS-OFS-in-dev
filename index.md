@@ -36,7 +36,14 @@ Before the model is implemented into operations, NOS will conduct semi-operation
 
 ## ECOFS
 
-ECOFS is a ROMS-based system intended to complement the capabilities of the West Coast OFS (WCOFS). The ECOFS domain covers the West Atlantic Ocean and will perform Four-Dimensional Variational (4D-Var) Data Assimilation (DA) of sea level and temperature observations from satellites and surface current observations from HF-radar to provide improved forecast guidance.
+ECOFS is a ROMS-based system intended to complement the capabilities of the West Coast OFS (WCOFS). The ECOFS domain covers the West Atlantic Ocean and will perform Four-Dimensional Variational (4D-Var) Data Assimilation (DA) of sea level and temperature observations from satellites and surface current observations from HF-radar to provide improved forecast guidance. The goals of this system are to:
+* Provide navigation nowcast and forecast guidance for the West Atlantic Ocean;
+* Provide improved forcings at the boundaries of nearshore hydrodynamic models, such as the upcoming NECOFS and SECOFS; and
+* Support non-navigation analyses and decision making, such as ecosystem indices and modeling and marine living resource management.
+
+The horizontal resolution of the gridded model output will be 3 km, while DA will be performed on a 6 km grid. Due to the computational intensivenes of DA, in operations the system will be run at least once per day, like current WCOFS operations.
+
+Experimental realtime runs of the non-DA version of ECOFS are available on the partners' website [eccofs.fathomscience.com](https://eccofs.fathomscience.com/).
 
 
 
