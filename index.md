@@ -30,7 +30,7 @@ Before the model is implemented into operations, NOS will conduct semi-operation
 
 **If interested in providing feedback or have any questions, contact [tide.predictions@noaa.gov](tide.predictions@noaa.gov)**
 
-![NECOFS mesh](https://raw.githubusercontent.com/NOAA-CO-OPS/NOS-OFS-in-dev/refs/heads/main/images/NECOFS-mesh.png "Map of unstructured, FVCOM-based NECOFS mesh")
+![NECOFS mesh](https://raw.githubusercontent.com/NOAA-CO-OPS/NOS-OFS-in-dev/refs/heads/main/images/NECOFS_Model_Grid.png "Map of unstructured, FVCOM-based NECOFS mesh")
 
 *The above image shows the unstructured mesh used for NECOFS, with high resolution areas around the coast and in the nearshore*
 
